@@ -5,7 +5,10 @@ of UK postcodes.
 
 Usage:
 
+
+
+```python
 from uk_postcodes import validator
 
 validator.is_valid("SW1W 0NY")
-
+```
