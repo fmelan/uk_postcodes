@@ -1,0 +1,5 @@
+.idea
+.pytest_cache
+build
+dist
+uk_postcodes_pkg_frantisekmelan.egg-info
