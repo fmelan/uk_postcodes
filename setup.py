@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='uk-postcodes-pkg-frantisekmelan',
-    version='0.0.4',
+    version='0.0.5',
     packages=['uk_postcodes'],
     url='https://github.com/fmelan/uk_postcodes',
     license='MIT License',
