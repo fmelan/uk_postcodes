@@ -15,6 +15,10 @@ I created Python package on test.pypi.org for study purposes but you can use it.
 https://test.pypi.org/project/uk-postcodes-pkg-frantisekmelan/
 
 
+## Technologies
+
+Python
+
 ## Usage:
 
 
