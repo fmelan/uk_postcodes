@@ -25,6 +25,7 @@ def test_validate():
     assert is_valid("CO4 3SQ")
     assert is_valid("BFPO 57")
     assert is_valid("MSR-2135")
+    assert is_valid("GIR 0AA")
 
     # czech
     assert not is_valid("182 00")
